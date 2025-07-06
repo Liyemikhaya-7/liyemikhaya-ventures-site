@@ -52,20 +52,6 @@ footer {
     padding: 20px 0;
     margin-top: 40px;
 }
-.services-list li {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-}
-
-.services-list img {
-    width: 40px;
-    height: 40px;
-    object-fit: cover;
-    margin-right: 10px;
-    border-radius: 10px;
-    border-radius: 5px;
-}
 
 @media (max-width: 600px) {
     section {
