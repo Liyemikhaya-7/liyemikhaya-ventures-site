@@ -53,9 +53,5 @@ footer {
     margin-top: 40px;
 }
 
-    nav ul {
-        flex-direction: column;
-        gap: 10px;
-    }
-}
+
 
